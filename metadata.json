@@ -1,0 +1,8 @@
+{
+  "name": "BengkelMate fikss",
+  "description": "Smart workshop tool management system with AI-powered condition scanning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
